@@ -703,7 +703,7 @@ aws dynamodb list-tables
 ## Document Revision History
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 2025-03-11 | Keatron Evans, Chief Security Architect | Initial document creation |
+| 3.0 | 2025-01-13 | Keatron Evans, Chief Security Architect | Initial document creation |
 
 ---
 
