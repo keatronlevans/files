@@ -1,8 +1,8 @@
-# Data Destruction Guide: AWS and Microsoft Azure
+# Data Destruction Guide: AWS and Microsoft Azure - Created by KM Cybersecurity. Please do not share.
 
 ## Introduction
 
-This comprehensive guide outlines step-by-step procedures for securely destroying data in Amazon Web Services (AWS) and Microsoft Azure environments. Following these procedures helps ensure compliance with data protection regulations and security best practices when decommissioning resources or implementing data lifecycle management.
+This comprehensive guide outlines step-by-step procedures for securely destroying data in Amazon Web Services (AWS) and Microsoft Azure environments. Following these procedures helps ensure compliance with data protection regulations and security best practices when decommissioning resources or implementing data lifecycle management. This document is created exclusively for KM Cybersecurity clients and is the intellectual property of KM Cybersecurity LLC and Keatron Evans. 
 
 ---
 
